@@ -5,5 +5,7 @@ all the three sorting techniques uses random( ) function to read random numbers 
 
 This Java Program Produces a random integer of n numbers given by the user and applies the QuickSort, BubbleSort & MergeSort to them
 
-It also shows the time Complexity of each of the sorting Algorithms 
+It also shows the time Complexity for each of the sorting Algorithms 
+
+
 
